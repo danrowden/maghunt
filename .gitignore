@@ -1,0 +1,4 @@
+*.pyc
+_assets/**
+
+main/settings/__init__.py
