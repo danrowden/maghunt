@@ -37,6 +37,8 @@ INSTALLED_APPS = (
     'djrill',
     'sorl.thumbnail',
     'api',
+    'posts',
+    'users',
 )
 
 MIDDLEWARE_CLASSES = (
